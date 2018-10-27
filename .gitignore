@@ -18,5 +18,4 @@ wordpress/wp-trackback.php
 wordpress/xmlrpc.php
 wordpress/wp-content/languages
 wordpress/wp-content/index.php
-#wordpress/wp-content/themes/rsw_test/.sass-cache
-wordpress/rsw_test/.sass-chace
+wordpress/wp-content/themes/rsw_test/.sass-cache
