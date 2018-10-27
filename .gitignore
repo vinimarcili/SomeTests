@@ -19,3 +19,6 @@ wordpress/xmlrpc.php
 wordpress/wp-content/languages
 wordpress/wp-content/index.php
 wordpress/wp-content/themes/rsw_test/.sass-cache
+wordpress/wp-content/themes/rsw_test/node_modules
+react/node_modules
+./vscode
